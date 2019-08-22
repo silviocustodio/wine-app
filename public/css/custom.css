@@ -1,0 +1,21 @@
+.wine-detail-image {
+  margin: 16px;
+}
+
+.title-screen{
+  color:rgba(255, 255, 255, 0.8);
+  font-family: 'Helvetica', sans-serif;
+}
+
+.list-style{
+  font-family: 'Helvetica', sans-serif;
+  color: #4b4b4b;
+  padding: 10px 20px;
+  margin: 0;
+  text-align: center;
+}
+.list-description{
+  font-family: 'Helvetica', sans-serif;
+  color: #4b4b4b;
+}
+
